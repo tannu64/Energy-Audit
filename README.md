@@ -3,7 +3,7 @@
 
 ## Overview
 
-Welcome to the repository for our report titled "Energy Audit and Energy Assets Management: Industrial Applications." This document aims to provide insights into the challenges, solutions, and strategies related to energy efficiency and management within industrial facilities. The research paper explores various aspects of energy audits, data analysis techniques, risk management, and the concept of Life Cycle Costing (LCC) in the context of industrial energy management.
+Welcome to the repository for our report titled "Energy Audit and Energy Assets Management: Industrial Applications." This document aims to provide insights into the challenges, solutions, and strategies related to energy efficiency and management within industrial facilities. Theproject explores various aspects of energy audits, data analysis techniques, risk management, and the concept of Life Cycle Costing (LCC) in the context of industrial energy management.
 
 ## Table of Contents
 
@@ -19,15 +19,15 @@ Welcome to the repository for our report titled "Energy Audit and Energy Assets 
 
 ## How to Use
 
-This repository contains the report, as well as code snippets for data analysis using MATLAB. To access the research paper, navigate to [Link to the Paper]. To explore the code snippets, refer to the relevant sections in the paper and find the corresponding code in the provided MATLAB files.
+This repository contains the report, as well as code snippets for data analysis using MATLAB. To access theproject, navigate to [Link to theproject]. To explore the code snippets, refer to the relevant sections in theproject and find the corresponding code in the provided MATLAB files.
 
 ## Contributions
 
-We encourage contributions and feedback from the community. If you have suggestions, improvements, or questions related to the content of the research paper or code snippets, feel free to open an issue or submit a pull request.
+We encourage contributions and feedback from the community. If you have suggestions, improvements, or questions related to the content of theproject or code snippets, feel free to open an issue or submit a pull request.
 
 ## Contact
 
-For inquiries related to this research paper or collaboration opportunities, please contact:
+For inquiries related to thisproject or collaboration opportunities, please contact:
 - [Tanveer Hussain]
 - Email: [agapaitanveermou@gmail.com]
 - LinkedIn: [www.linkedin.com/in/tanveer-hussain-277119196]
